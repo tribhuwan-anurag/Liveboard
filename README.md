@@ -28,7 +28,7 @@ A real-time collaborative drawing application built with Next.js, WebSockets, an
 1. Clone the repository
 ```bash
    git clone https://github.com/your-username/Draw-N-Go.git
-   cd Draw-N-Go
+   cd Liveboard
 ```
 
 2. Install dependencies
